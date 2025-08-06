@@ -1,0 +1,42 @@
+repos:
+  # 基础代码质量检查
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-json
+      - id: check-merge-conflict
+      - id: check-added-large-files
+        args: ['--maxkb=1000']
+      - id: debug-statements
+
+  # Python import排序
+  - repo: https://github.com/pycqa/isort
+    rev: 5.12.0
+    hooks:
+      - id: isort
+        args: ["--profile", "black", "--filter-files"]
+
+  # Python代码格式化
+  - repo: https://github.com/psf/black
+    rev: 23.3.0
+    hooks:
+      - id: black
+        language_version: python3
+
+  # Python代码质量检查
+  - repo: https://github.com/pycqa/flake8
+    rev: 6.0.0
+    hooks:
+      - id: flake8
+        additional_dependencies: [flake8-docstrings]
+        args: [--max-line-length=88, --extend-ignore=E203,W503]
+
+  # Python类型检查（可选）
+  # - repo: https://github.com/pre-commit/mirrors-mypy
+  #   rev: v1.3.0
+  #   hooks:
+  #     - id: mypy
+  #       additional_dependencies: [types-all] 
