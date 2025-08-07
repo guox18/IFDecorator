@@ -1,6 +1,7 @@
-<img src="pics/LOGO.png" width="90" style="float: left; margin-right: 10px;" alt="IFDECORATOR Logo">
-
-# IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="pics/LOGO.png" width="90" alt="IFDECORATOR Logo">
+  <h1>IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards</h1>
+</div>
 
 
 Code for ''IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards''
