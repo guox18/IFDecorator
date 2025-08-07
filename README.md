@@ -1,10 +1,13 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="pics/LOGO.png" width="90" alt="IFDECORATOR Logo">
-  <h1>IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards</h1>
-</div>
+<table>
+<tr>
+<td><img src="pics/LOGO.png" width="90" alt="IFDECORATOR Logo"></td>
+<td valign="middle"><h1>IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards</h1></td>
+</tr>
+</table>
 
-
-Code for ''IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards''
+> *"When a metric is used as a target, it ceases to be a good metric."* — Goodhart's Law
+> 
+> **IFDecorator** addresses this fundamental challenge in RLVR training, where models often exploit verification shortcuts rather than truly understanding user intent, leading to the critical over-optimization problem.
 
 ---
 
@@ -113,7 +116,7 @@ cd modules/postprocess
 ```
 
 ### Reinforcement Learning
-#### 1. Install Verl Environment
+#### 1. Install VERL Environment
 
 ```bash
 # Clone VERL repository
@@ -155,8 +158,6 @@ You can monitor and detect potential reward hacking using our tripwires system:
 cd tripwires
 bash run_hacking_prob.sh
 ```
-
-
 
 ## 📄 License
 
