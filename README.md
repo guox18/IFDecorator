@@ -11,7 +11,7 @@
 
 [![Project Page](https://img.shields.io/badge/🌐%20Project%20Page-Visit%20Site-purple)](https://tianyilt.github.io/ifdecorator/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset%20%26%20Model-blue)](https://huggingface.co/guox18)
-[![Daily Paper](https://img.shields.io/badge/🤗%20Daily%20Paper-Featured-green)](https://huggingface.co/papers)
+[![Daily Paper](https://img.shields.io/badge/🤗%20Daily%20Paper-Featured-green)](https://huggingface.co/papers/2508.04632)
 [![arXiv](https://img.shields.io/badge/arXiv-2508.04632-red)](https://arxiv.org/abs/2508.04632)
 
 
