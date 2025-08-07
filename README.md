@@ -8,17 +8,12 @@
 > 
 > **IFDecorator** addresses this fundamental challenge in RLVR training, where models often exploit verification shortcuts rather than truly understanding user intent, leading to the critical over-optimization problem.
 
----
 
-## 🔗 Quick Links
-
-[![Project Page](https://img.shields.io/badge/🌐%20Project%20Page-Visit%20Site-purple)](https://guox18.github.io/IFDecorator)
-[![Dataset](https://img.shields.io/badge/🤗%20Dataset-IFDecorator-blue)](https://huggingface.co/datasets/guox18/IFDecorator)
-[![Model](https://img.shields.io/badge/🤗%20Model-Coming%20Soon-orange)](https://huggingface.co/guox18)
+[![Project Page](https://img.shields.io/badge/🌐%20Project%20Page-Visit%20Site-purple)](https://tianyilt.github.io/ifdecorator/)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset%20%26%20Model-blue)](https://huggingface.co/guox18)
 [![Daily Paper](https://img.shields.io/badge/🤗%20Daily%20Paper-Featured-green)](https://huggingface.co/papers)
 [![arXiv](https://img.shields.io/badge/arXiv-2508.04632-red)](https://arxiv.org/abs/2508.04632)
 
----
 
 ## 🌟 Framework Overview
 
