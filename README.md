@@ -1,9 +1,8 @@
-<table border="0">
-<tr>
-<td><img src="pics/LOGO.png" width="90" alt="IFDECORATOR Logo"></td>
-<td valign="middle"><h1>IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards</h1></td>
-</tr>
-</table>
+<div>
+  <img src="pics/LOGO.png" width="90" alt="IFDECORATOR Logo" align="left" style="margin-right: 20px;">
+  <h1>IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards</h1>
+</div>
+<br clear="left">
 
 > *"When a metric is used as a target, it ceases to be a good metric."* — Goodhart's Law
 > 
