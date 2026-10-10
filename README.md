@@ -163,13 +163,27 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{guo2025ifdecoratorwrappinginstructionfollowing,
-      title={IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards}, 
-      author={Xu Guo and Tianyi Liang and Tong Jian and Xiaogui Yang and Ling-I Wu and Chenhui Li and Zhihui Lu and Qipeng Guo and Kai Chen},
-      year={2025},
-      eprint={2508.04632},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2508.04632}, 
+@article{DBLP:journals/corr/abs-2508-04632,
+  author       = {Xu Guo and
+                  Tianyi Liang and
+                  Tong Jian and
+                  Xiaogui Yang and
+                  Ling{-}I Wu and
+                  Chenhui Li and
+                  Zhihui Lu and
+                  Qipeng Guo and
+                  Kai Chen},
+  title        = {{IFDECORATOR:} Wrapping Instruction Following Reinforcement Learning
+                  with Verifiable Rewards},
+  journal      = {CoRR},
+  volume       = {abs/2508.04632},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2508.04632},
+  doi          = {10.48550/ARXIV.2508.04632},
+  eprinttype   = {arXiv},
+  eprint       = {2508.04632},
+  timestamp    = {Tue, 07 Apr 2026 14:32:29 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2508-04632.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
